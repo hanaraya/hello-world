@@ -1,7 +1,3 @@
 # hello-world
-My first repository
+An app for trying out git repositories and various html elements.
 
-Read me
-make some change
-new change local
-new line master
